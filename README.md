@@ -1,0 +1,1 @@
+This repository is a walkthrough of a simple SARIMA analysis. It is designed to go along with a blog post tutorial. The blog can be found [here](https://chrisgrannan.medium.com/sarima-modeling-42ff700af29). The dataset used for this tutorial contains weather information for Austin, Texas and came from [kaggle](https://www.kaggle.com/grubenm/austin-weather).
